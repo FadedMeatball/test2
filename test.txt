@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-okok, new branch, change, cange
-=======
-okok, new branch, change, yeet
->>>>>>> newBranch
+okok, new branch, change
+big yeta.
